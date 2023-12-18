@@ -1,0 +1,10 @@
+D:\VisualStudioProjects\C#\FileClassificator\FileClassificator\bin\Debug\FileClassificator.exe.config
+D:\VisualStudioProjects\C#\FileClassificator\FileClassificator\bin\Debug\FileClassificator.exe
+D:\VisualStudioProjects\C#\FileClassificator\FileClassificator\bin\Debug\FileClassificator.pdb
+D:\VisualStudioProjects\C#\FileClassificator\FileClassificator\obj\Debug\FileClassificator.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\C#\FileClassificator\FileClassificator\obj\Debug\FileClassificator.Form1.resources
+D:\VisualStudioProjects\C#\FileClassificator\FileClassificator\obj\Debug\FileClassificator.Properties.Resources.resources
+D:\VisualStudioProjects\C#\FileClassificator\FileClassificator\obj\Debug\FileClassificator.csproj.GenerateResource.cache
+D:\VisualStudioProjects\C#\FileClassificator\FileClassificator\obj\Debug\FileClassificator.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C#\FileClassificator\FileClassificator\obj\Debug\FileClassificator.exe
+D:\VisualStudioProjects\C#\FileClassificator\FileClassificator\obj\Debug\FileClassificator.pdb

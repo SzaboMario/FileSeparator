@@ -1,0 +1,10 @@
+D:\VisualStudioProjects\C#\FileSeparatorByWord\FileSeparatorByWord\bin\Debug\FileSeparatorByWord.exe.config
+D:\VisualStudioProjects\C#\FileSeparatorByWord\FileSeparatorByWord\bin\Debug\FileSeparatorByWord.exe
+D:\VisualStudioProjects\C#\FileSeparatorByWord\FileSeparatorByWord\bin\Debug\FileSeparatorByWord.pdb
+D:\VisualStudioProjects\C#\FileSeparatorByWord\FileSeparatorByWord\obj\Debug\FileSeparatorByWord.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\C#\FileSeparatorByWord\FileSeparatorByWord\obj\Debug\FileSeparatorByWord.Form1.resources
+D:\VisualStudioProjects\C#\FileSeparatorByWord\FileSeparatorByWord\obj\Debug\FileSeparatorByWord.Properties.Resources.resources
+D:\VisualStudioProjects\C#\FileSeparatorByWord\FileSeparatorByWord\obj\Debug\FileSeparatorByWord.csproj.GenerateResource.cache
+D:\VisualStudioProjects\C#\FileSeparatorByWord\FileSeparatorByWord\obj\Debug\FileSeparatorByWord.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C#\FileSeparatorByWord\FileSeparatorByWord\obj\Debug\FileSeparatorByWord.exe
+D:\VisualStudioProjects\C#\FileSeparatorByWord\FileSeparatorByWord\obj\Debug\FileSeparatorByWord.pdb
